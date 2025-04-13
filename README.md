@@ -1,4 +1,4 @@
-# 🕹️ Jogo em PgZero - Projeto Platformer / Roguelike
+# 🕹️ Jogo em PgZero
 
 Este é um projeto de jogo desenvolvido utilizando **PgZero**, com base nas restrições e requisitos definidos para a disciplina. O jogo segue os gêneros **Platformer**, **Rogue** ou **Roguelike**, utilizando apenas bibliotecas específicas e animações personalizadas.
 
