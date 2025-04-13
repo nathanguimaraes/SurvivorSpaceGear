@@ -57,7 +57,9 @@ O jogo deve pertencer a um dos seguintes gêneros:
 
 ## ▶️ Como Executar
 
-1. Instale o **PgZero** (se ainda não tiver):
+1. Instale e execute o  **PgZero** (se ainda não tiver) Python versão 3.7.7:
 
 ```bash
 pip install pgzero
+pgzrun main.py
+
