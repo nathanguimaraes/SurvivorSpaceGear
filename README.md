@@ -4,6 +4,12 @@ Este é um projeto de jogo desenvolvido utilizando **PgZero**, com base nas rest
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/7c920b4c-72c7-407e-a7bf-c8c784620a56)
+
+
+![image](https://github.com/user-attachments/assets/76b4363d-e43e-4a14-929a-75def983c2c1)
+
 ## ✅ Requisitos do Projeto
 
 ### Bibliotecas Permitidas
